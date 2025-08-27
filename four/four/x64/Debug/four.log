@@ -1,0 +1,4 @@
+﻿  Project.cpp
+C:\Users\Default.DESKTOP-FD1RRJQ\source\repos\four\four\Project.cpp(200,22): warning C4566: character represented by universal-character-name '\u2697' cannot be represented in the current code page (949)
+C:\Users\Default.DESKTOP-FD1RRJQ\source\repos\four\four\Project.cpp(200,22): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (949)
+  four.vcxproj -> C:\Users\Default.DESKTOP-FD1RRJQ\source\repos\four\x64\Debug\four.exe
